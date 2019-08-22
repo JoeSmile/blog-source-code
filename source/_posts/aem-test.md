@@ -4,6 +4,7 @@ date: 2019-08-21 19:16:40
 tags:
 - aem
 - test
+description: AEM框架 UI test sharing
 ---
 ![post-cover](/images/covers/aem-test-cover.jpeg)
 记一次 aem test sharing。(AEM是一个庞大的，前后端未分离的，用java各种配置的框架。)  

@@ -10,7 +10,7 @@ tags:
 
 
 以下是 == （Abstract Equality）比较的算法：
-![](equal1.png)
+![](absolute-equal/equal1.png)
 
 大致翻译如下：当比较 x == y的时候 ，如果 x，y是同类型：
 
@@ -42,7 +42,7 @@ x / y 是布尔型，要将 x / y 转换成数字类型进行比较
 
 下面是‘===’比较 算法
 
-![](equal2.png)
+![](absolute-equal/equal2.png)
 
 例如如果  x === y 比较
 
@@ -64,6 +64,6 @@ x 和 y 类型不同，返回false
 
 最后让我们来一个经典的图。
 
-![](equal3.png)
+![](absolute-equal/equal3.png)
 
 > PS： 面试时可能会碰见 类似的面试题，主要考察 js 类型的掌握程度，不求答案 100% 正确，因为在实际应用中绝大多数都用 ‘===’

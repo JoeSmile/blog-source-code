@@ -13,19 +13,19 @@ A body parser for koa, base on co-body. support json, form and text type body.
 
 #### **基本用法**
 
-![](parser1.png)
+![](koa-bodyparser/parser1.png)
 **disableBodyParser**: 可以动态的禁用 koa-bodyparser。
 
-![](parser2.png)
+![](koa-bodyparser/parser2.png)
  
 
 > 和co-body 、koa-body 功能类似，使用起来看喜好。都可以限制上传文件大小，可以限制传输请求格式enableTypes（json, form, text）,formLimit默认 **56kb**，jsonLimit 和 textLimit 都是 **1MB**。所以当我们上传表单时候，要控制下大小，如果超出限制，返回413错误。encoding默认为 utf-8。原始数据放在 cxt.request.rawBody 中，解析后的数据放在 cxt.request.body  中。本例中用postman（一个发送请求的工具）发起一个格式为 Json 的 post 请求。代码中是已经使用 koa-bodyparser 解析过的，直接返回给我一个object 方便使用。
 
-![](parser4.png)
+![](koa-bodyparser/parser4.png)
 
 （上图为使用 postman 发送请求）
 
-![](parser5.png)
+![](koa-bodyparser/parser5.png)
 
 （上图为服务器代码中解析后的结果）
 
@@ -43,7 +43,7 @@ emmm，看起来这个中间件极其简单呢，在看文档和demo过程中，
 
 在developer.Mozilla.org 中关于 enctype = 'multipart/form-data' 的例子
 
-![](parser6.png)
+![](koa-bodyparser/parser6.png)
 
 关于 http header 的相关内容很多，在此不展开描述。
 
@@ -51,7 +51,7 @@ emmm，看起来这个中间件极其简单呢，在看文档和demo过程中，
 
 最后 Koa-bodyparser 简单且必要，相似的中间件有
 
-![](parser7.png)
+![](koa-bodyparser/parser7.png)
 
 （上图来自 https://github.com/koajs/koa/wiki#middleware）
 

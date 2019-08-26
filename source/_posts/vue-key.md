@@ -18,7 +18,7 @@ keywords:
 #### 案例1. 无key的情况，切换 input 无法自动清空
 
 在 input 不加 key 的时候，切换这两个 input 标签，input 框框里的值不会变
-![](vuekey1.png)
+![](vue-key/vuekey1.png)
 
 #### 案例2. key相同tag标签，多次出现在同一个页面
 
@@ -34,7 +34,7 @@ keywords:
 
 另外一个渲染 input radio 显示不正确的问题
 
-![](vuekey2.png)
+![](vue-key/vuekey2.png)
 
 
 在以上代码，原本想点击Add one 渲染多个inputRadio 组件，从而进行Yes or No的选择。但以上有2个错误。

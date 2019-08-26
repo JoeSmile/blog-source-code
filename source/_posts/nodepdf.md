@@ -31,7 +31,7 @@ tags:
 
 下面介绍下handlerbars的基本用法。
 
-![123](nodePDF2.png)
+![](nodepdf/nodePDF2.png)
 
 以上demo来自官网，细节和语法请参照官网。
 
@@ -48,7 +48,7 @@ tags:
 Github: https://github.com/marcbachmann/node-html-pdf
 
 又一个上手快的npm包，api简单明了,以下是核心代码
-![](nodePDF1.png)
+![](nodepdf/nodePDF1.png)
 
 这里用到用 handerbars 生成的html，直接打印即可 。当然关于 pdf 页眉，页脚，缩放比例等的设置可以参考下 gitbub 里的说明。
 
@@ -60,4 +60,4 @@ Github: https://github.com/marcbachmann/node-html-pdf
 ```
 
 
-![](nodePDF3.png)
+![](nodepdf/nodePDF3.png)

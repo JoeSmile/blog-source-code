@@ -44,13 +44,13 @@ npm start （npm start dev）
  
 效果图：
 
-![](static1.png)
+![](koa-static/static1.png)
 
  
 
 这一步完成的很easy，接下来我们看下目录结构。
 
-![](static2.png)
+![](koa-static/static2.png)
 
 
 这里koa-router 和 koa-static 已经创建完成，我们只需要根据业务扩展下即可。
@@ -62,10 +62,10 @@ npm start （npm start dev）
 
 在代码中我们设置了
 
-![](static3.png)
+![](koa-static/static3.png)
 
 然后我们在public文件夹下放一张1.png图片， 并在浏览器中输入 localhost:3000/1.png
 
-![](static4.png)
+![](koa-static/static4.png)
 
 > 注意：在浏览器中输入地址时，不需要输入'public'，安装中间件加载顺序，先去找静态文件夹public中的文件，然后再匹配路由。

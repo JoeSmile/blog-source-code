@@ -17,7 +17,7 @@ tags:
 
 *文件名: app.js*
 
-![](jwt1.png)
+![](koa-jwt/jwt1.png)
 
 红色框：jwt 相关的代码
 
@@ -27,7 +27,7 @@ tags:
 
 *文件名: routes/index.js*
 
-![](jwt2.png)
+![](koa-jwt/jwt2.png)
 
 这里简单的模仿一个 login 请求，返回一个 token。
 
@@ -35,13 +35,13 @@ tags:
 
 *文件名: routes/users.js*
 
-![](jwt3.0.png)
+![](koa-jwt/jwt3.0.png)
 
 users 以下的路由需通过 jwt 验证才能访问
 
 *文件名: auth.js*
 
-![](jwt3.png)
+![](koa-jwt/jwt3.png)
 
  
 ---
@@ -49,11 +49,11 @@ users 以下的路由需通过 jwt 验证才能访问
 
 1.我们在浏览器输入 [localhost:3000/login](localhost:3000/login) 获取 token。一下大串都是token，分为3部分，用 '.' 分隔；
 
-![](jwt4.png)
+![](koa-jwt/jwt4.png)
 
 2.这里用 postman 去访问 [localhost:3000/users/info](localhost:3000/users/info) 模拟访问用户数据。要在 header中加入 authorization, 注意：authorization的值的格式；
 
-![](jwt5.png)
+![](koa-jwt/jwt5.png)
 
  
 
@@ -67,7 +67,7 @@ users 以下的路由需通过 jwt 验证才能访问
 
 Koa-jwt：这个函数还是截图看得清楚
 
-![](jwt6.png)
+![](koa-jwt/jwt6.png)
 
 1.**secret**: 可以理解为一个加密因子，在生成 token 的时候用这个因子，验证 token 的时候也用同一个。Serect 可以是数组，当secret是一个数组时，在验证 token 时任何一个 因子通过验证，token就合法有效。
 
@@ -103,7 +103,7 @@ jwt.verify(token, secretOrPublicKey, [options, callback])// 对token的验证
 
 4.正确的时候返回 payload，错误的时候throw 一个 err，里面包含了错误的message，根据message判断错误类型。
 
-![](jwt7.png)
+![](koa-jwt/jwt7.png)
 
  
 
@@ -111,7 +111,7 @@ jwt.verify(token, secretOrPublicKey, [options, callback])// 对token的验证
 
 **expiredIn**:默认单位是 **秒！！！** 以下是铁证啊（jsonwebtoken/verify.js ，这里是用秒做的对比，千万别以为是毫秒
 
-![](jwt8.png)
+![](koa-jwt/jwt8.png)
 
  
 

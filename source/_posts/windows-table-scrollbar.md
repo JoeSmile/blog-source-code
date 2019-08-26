@@ -15,7 +15,7 @@ tags:
 
 #### 1.判断window系统
 
-![](windows1.png)
+![](windows-table-scrollbar/windows1.png)
 
  
 
@@ -54,7 +54,7 @@ document.documentElement.setAttribute('data-platform', navigator.platform)，
 
 html效果：
 
-![](windows2.png)
+![](windows-table-scrollbar/windows2.png)
 
  
 

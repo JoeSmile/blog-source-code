@@ -16,7 +16,7 @@ Koa-helmet 确保 koa 安全最强中间件！
 
 无论前端还是后台，对安全都是极其重视的。前端同学在面试的时候常常被问到  XSS 黑客攻击手段。面试答案也很固定，其实安全防御的重点还是在服务器， koa-helmet 这个中间件能有效的防御 XSS 等攻击。这个中间件使用起来非常方便。Helmet 从14个方面守护着用户的安全，能抵挡大多数黑客攻击。本文简略的说明14种攻击类型，帮大家理解这个安全的中间件。
 
-![](helmet1.png)
+![](koa-helmet/helmet1.png)
 
  
 
@@ -24,13 +24,13 @@ Koa-helmet 确保 koa 安全最强中间件！
 
 限制加载的类型及对应属性: 
 
-![](helmet2.png)
+![](koa-helmet/helmet2.png)
 
  
 
 **CSP对应关系图:**
 
-![](helmet3.png)
+![](koa-helmet/helmet3.png)
 
  
 
@@ -38,11 +38,11 @@ Koa-helmet 确保 koa 安全最强中间件！
 
 **1.在http头中设置Content-Security-Policy字段**
 
-![](helmet4.png)
+![](koa-helmet/helmet4.png)
 
 **2.通过meta标签设置**
 
-![](helmet5.png)
+![](koa-helmet/helmet5.png)
 
 更详细介绍请参考阮大神文章: http://www.ruanyifeng.com/blog/2016/09/csp.html
 

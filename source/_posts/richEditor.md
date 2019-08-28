@@ -6,8 +6,8 @@ tags:
 - solutions
 - 富文本编辑器
 - npm
+thumbnail: /images/covers/xiaoxin.jpg
 ---
-![post-cover](/images/card_cover/xiaoxin.jpg)
 
 今天我们来介绍5个前端富文本编辑器
 

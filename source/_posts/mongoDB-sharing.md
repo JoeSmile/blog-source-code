@@ -6,7 +6,6 @@ tags:
 - mongodb
 - sharing
 ---
-![post-cover](/images/covers/mongoDB_logo.png)
 记一次 sharing
 
 ![](mongoDB-sharing/Slide1.png)

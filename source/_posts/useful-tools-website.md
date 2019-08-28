@@ -7,6 +7,7 @@ keywords:
 description:
   - 记录些有意思的工具网站和学习网站，让不知所措的时间得到充实
 date: 2019-08-22 17:00:00
+thumbnail: /images/js.png
 tags:
 ---
 <script type="text/javascript" src="/js/src/bai.js"></script>

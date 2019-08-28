@@ -6,7 +6,6 @@ tags:
 - javascript
 
 ---
-![post-cover](/images/card_cover/xiaoxin.jpg)
 
 
 在ES8中，为String新增 padStart & padEnd， 用来填充字符串。

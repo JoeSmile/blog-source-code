@@ -8,8 +8,8 @@ tags:
 - node
 - npm
 - solutions
+thumbnail: /images/covers/jwt-cover.png
 ---
-![post-cover](/images/covers/jwt-cover.png)
 
 学习 Koa 不易，今天学习到了 koa-jwt 这个登陆验证必不可少的中间件。本文会说明 jwt是什么、token怎么来的、如何验证token。
 

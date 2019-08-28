@@ -8,8 +8,8 @@ tags:
 - middleware
 - npm
 - solutions
+thumbnail: /images/covers/helmet-cover.jpg
 ---
-![post-cover](/images/covers/helmet-cover.jpg)
 Koa-helmet 确保 koa 安全最强中间件！
 
 官网: https://helmetjs.github.io/

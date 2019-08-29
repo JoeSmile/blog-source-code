@@ -1,6 +1,7 @@
 ---
 title: koa-static静态文件
 date: 2018-11-9 17:23:18
+category: node
 tags:
 - koa
 - node

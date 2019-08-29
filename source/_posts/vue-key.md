@@ -1,8 +1,7 @@
 ---
 title: vue key有个坑
 date: 2019-08-21 12:16:45
-categroies:
-- vue
+categroies: vue
 tags:
 - vue
 - key

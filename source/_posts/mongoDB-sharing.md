@@ -1,6 +1,7 @@
 ---
 title: mongoDB-sharing
 date: 2019-01-21 18:20:21
+category: mongodb
 tags:
 - noSql
 - mongodb

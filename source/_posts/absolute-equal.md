@@ -1,6 +1,7 @@
 ---
 title: absolute-equal
 date: 2019-01-07 17:59:47
+category: javascript
 tags: 
 - 面试题
 ---

@@ -1,6 +1,7 @@
 ---
 title: rich editor(富文本编辑器)
 date: 2019-08-21 12:27:10
+category: javascript
 tags: 
 - 编辑器
 - solutions

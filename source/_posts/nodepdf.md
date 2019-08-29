@@ -1,6 +1,7 @@
 ---
 title: node generate pdf solutions(pdf 解决方案)
 date: 2019-08-21 11:40:46
+category: node
 tags: 
 - solutions
 - pdf

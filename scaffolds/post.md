@@ -11,4 +11,3 @@ keywords:
 description:
 - 成长轨迹
 ---
-<script type="text/javascript" src="/js/src/bai.js"></script>

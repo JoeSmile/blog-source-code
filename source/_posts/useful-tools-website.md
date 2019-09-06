@@ -12,28 +12,10 @@ thumbnail: /images/js.png
 tags:
 ---
 
-**一本前端雀语小册:** 
-**https://www.yuque.com/robinson/fe-guide**
 
+### 知识精讲
 **Pro git**
-**http://iissnan.com/progit**
-
-**全家福: 各大语言、框架技术传送门**
-**https://devdocs.io/**
-
-**直接取得当前时间毫秒数**
-```js
-var t1 = +new Date();
-```
-
-**笔耕不辍的作者真心让人佩服**
-https://www.muyiy.cn/blog/
-
-**细心的小姐姐总结的很全面的面试题**
-https://github.com/YvetteLau/Blog
-https://juejin.im/post/5c92f499f265da612647b754
-https://juejin.im/post/5cdcc009e51d453afb40d87c
-https://juejin.im/post/5c64d15d6fb9a049d37f9c20
+http://iissnan.com/progit
 
 **算法**
 https://juejin.im/post/5d5b307b5188253da24d3cd1
@@ -53,6 +35,29 @@ https://juejin.im/post/5d3eca78e51d4561cb5dde12
 https://juejin.im/post/5d4d0ec651882549594e7293
 
 
+### 全家桶 & 大集合
+**全家福: 各大语言、框架技术传送门**
+https://devdocs.io/
+
+**一本前端雀语小册:** 
+https://www.yuque.com/robinson/fe-guide
+
+**笔耕不辍的作者真心让人佩服**
+https://www.muyiy.cn/blog/
+
+
+### 面试题系列
+**各种语言的面试题大全**
+https://www.javatpoint.com/javascript-interview-questions
+
+**细心的小姐姐总结的很全面的面试题**
+https://github.com/YvetteLau/Blog
+https://juejin.im/post/5c92f499f265da612647b754
+https://juejin.im/post/5cdcc009e51d453afb40d87c
+https://juejin.im/post/5c64d15d6fb9a049d37f9c20
+
+
+### 扩展
 **ES6词法规范**
 http://zhoushengfe.com/es6/es6-ch.html
 
@@ -60,6 +65,14 @@ http://zhoushengfe.com/es6/es6-ch.html
 https://segmentfault.com/a/1190000012162360#articleHeader1
 
 
+### 工具
 **CICD**
 **Jenkins 中文文档**
 https://www.w3cschool.cn/jenkins/jenkins-jg9528pb.html
+
+
+### Tips
+**直接取得当前时间毫秒数**
+```js
+var t1 = +new Date();
+```

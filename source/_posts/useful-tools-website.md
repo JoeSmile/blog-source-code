@@ -26,6 +26,8 @@ tags:
 var t1 = +new Date();
 ```
 
+**笔耕不辍的作者真心让人佩服**
+https://www.muyiy.cn/blog/
 
 **细心的小姐姐总结的很全面的面试题**
 https://github.com/YvetteLau/Blog
@@ -51,3 +53,13 @@ https://juejin.im/post/5d3eca78e51d4561cb5dde12
 https://juejin.im/post/5d4d0ec651882549594e7293
 
 
+**ES6词法规范**
+http://zhoushengfe.com/es6/es6-ch.html
+
+**目前看到过最好的一片关于ES词法规范的博客**
+https://segmentfault.com/a/1190000012162360#articleHeader1
+
+
+**CICD**
+**Jenkins 中文文档**
+https://www.w3cschool.cn/jenkins/jenkins-jg9528pb.html

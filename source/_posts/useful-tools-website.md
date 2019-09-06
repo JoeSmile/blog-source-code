@@ -35,6 +35,8 @@ https://juejin.im/post/5d3eca78e51d4561cb5dde12
 https://juejin.im/post/5d4d0ec651882549594e7293
 
 
+
+
 ### 全家桶 & 大集合
 **全家福: 各大语言、框架技术传送门**
 https://devdocs.io/
@@ -44,6 +46,8 @@ https://www.yuque.com/robinson/fe-guide
 
 **笔耕不辍的作者真心让人佩服**
 https://www.muyiy.cn/blog/
+
+
 
 
 ### 面试题系列
@@ -57,6 +61,8 @@ https://juejin.im/post/5cdcc009e51d453afb40d87c
 https://juejin.im/post/5c64d15d6fb9a049d37f9c20
 
 
+
+
 ### 扩展
 **ES6词法规范**
 http://zhoushengfe.com/es6/es6-ch.html
@@ -65,10 +71,21 @@ http://zhoushengfe.com/es6/es6-ch.html
 https://segmentfault.com/a/1190000012162360#articleHeader1
 
 
+
+
 ### 工具
 **CICD**
 **Jenkins 中文文档**
 https://www.w3cschool.cn/jenkins/jenkins-jg9528pb.html
+
+**Gitlab CI**
+*个人感觉 gitlab CI 比 jenkins 更好上手*
+https://www.jianshu.com/p/3c0cbb6c2936
+
+**Jenkins VS Gitlab CI**
+*这样对比 gitlab CI 完胜*
+https://about.gitlab.com/devops-tools/jenkins-vs-gitlab.html
+
 
 
 ### Tips
@@ -76,3 +93,26 @@ https://www.w3cschool.cn/jenkins/jenkins-jg9528pb.html
 ```js
 var t1 = +new Date();
 ```
+
+
+### To Read
+lerna   
+https://github.com/lerna/lerna#getting-started
+https://juejin.im/post/5a989fb451882555731b88c2
+https://juejin.im/post/5c7491cae51d457fc564d6ee
+https://juejin.im/post/5ced1609e51d455d850d3a6c
+
+lodash 原型污染   
+https://juejin.im/post/5d271332f265da1b934e2d48
+
+Typescript enhancer   
+http://definitelytyped.org/   
+https://github.com/DefinitelyTyped/DefinitelyTyped
+
+standrad   
+https://github.com/standard
+https://standardjs.com/
+
+ES6 pro   
+http://es6.ruanyifeng.com/?search=%E6%A8%A1%E7%89%88&x=0&y=0
+

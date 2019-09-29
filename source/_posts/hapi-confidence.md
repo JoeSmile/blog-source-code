@@ -116,7 +116,7 @@ key: {
     "$default": 6
 }
 ```
-> 当 random 小于10，key的值为4；   
+> 当 random 小于等于10，key的值为4；   
 > 当 random 大于10并且小于等于20， key的值为5；   
 > 当 random 大于20，key的值为6
 

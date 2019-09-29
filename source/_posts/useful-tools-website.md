@@ -47,9 +47,6 @@ https://www.yuque.com/robinson/fe-guide
 **笔耕不辍的作者真心让人佩服**
 https://www.muyiy.cn/blog/
 
-
-
-
 ### 面试题系列
 **各种语言的面试题大全**
 https://www.javatpoint.com/javascript-interview-questions
@@ -60,8 +57,13 @@ https://juejin.im/post/5c92f499f265da612647b754
 https://juejin.im/post/5cdcc009e51d453afb40d87c
 https://juejin.im/post/5c64d15d6fb9a049d37f9c20
 
+**前端博客现在流行 git book**
+https://leohxj.gitbooks.io/front-end-database/interview/interview-exercises-with-JavaScript.html
+**面试题小书**
+https://fe.padding.me
 
-
+**经典笔试题**
+https://leetcode.com/problemset/top-interview-questions/
 
 ### 扩展
 **ES6词法规范**
@@ -70,7 +72,8 @@ http://zhoushengfe.com/es6/es6-ch.html
 **目前看到过最好的一片关于ES词法规范的博客**
 https://segmentfault.com/a/1190000012162360#articleHeader1
 
-
+**前端算法题目**
+http://obkoro1.com/web_accumulate/algorithm/
 
 ### 工具
 **CICD**
@@ -93,6 +96,13 @@ https://about.gitlab.com/devops-tools/jenkins-vs-gitlab.html
 var t1 = +new Date();
 ```
 
+### 在线绘图工具
+流程图   
+https://app.creately.com
+
+UE + 流程图 
+https://www.gomockingbird.com/
+https://www.processon.com
 
 ### To Read
 lerna   
@@ -115,3 +125,5 @@ https://standardjs.com/
 ES6 pro   
 http://es6.ruanyifeng.com/?search=%E6%A8%A1%E7%89%88&x=0&y=0
 
+##配色原理##
+https://www.uisdc.com/color-design-reading-notes-1
